@@ -2,11 +2,11 @@
 
 ---
 
-**Nama:** Najwa Armia Zahra
-**NIM:** 60324002
+**Nama:** Isnaeni Kholifatun  
+**NIM:** 60324075  
 **Prodi:** Informatika  
 **Semester:** 4  
-**Mata Kuliah:** Pemrograman Web II
+**Mata Kuliah:** Pemrograman Web II  
 
 ---
 ## Tugas 1 - Fitur Pengembalian Buku 
