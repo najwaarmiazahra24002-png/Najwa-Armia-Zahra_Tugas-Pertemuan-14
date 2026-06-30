@@ -2,8 +2,8 @@
 
 ---
 
-**Nama:** Isnaeni Kholifatun  
-**NIM:** 60324075  
+**Nama:** Najwa Armia Zahra  
+**NIM:** 60324002  
 **Prodi:** Informatika  
 **Semester:** 4  
 **Mata Kuliah:** Pemrograman Web II  
