@@ -22,7 +22,9 @@
 ---
 ### 4. Update Stok: Stok buku bertambah 1 saat dikembalikan
 ![T1](T1.3.png)
+
 ![T1](T1.4.png)
 ### Setelah di kembalikan 
 ![T1](T1.5.png)
+
 ![T1](T1.6.png)
